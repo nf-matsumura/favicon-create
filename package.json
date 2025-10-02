@@ -1,0 +1,11 @@
+{
+  "name": "favicon-create",
+  "type": "module",
+  "scripts": {
+    "create:ico": "node index.js"
+  },
+  "dependencies": {
+    "sharp": "0.34.4",
+    "png-to-ico": "2.1.8"
+  }
+}
